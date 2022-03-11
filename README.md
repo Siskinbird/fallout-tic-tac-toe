@@ -1,4 +1,4 @@
-# fallout-tic-tak-toe
+# fallout-tic-tac-toe [click me!](https://siskinbird.github.io/fallout-tic-tac-toe/)
 ![Screenshot_86](https://user-images.githubusercontent.com/59995752/157898798-31fd162a-fd2a-46cd-970f-82ea9cfd65a5.png)
 
 Tic-tac-toe based on the cult game fallout
